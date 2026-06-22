@@ -1,4 +1,4 @@
-Flight Price Prediction and Analysis
+**Flight Price Prediction and Analysis**
 
 Project Overview
 
